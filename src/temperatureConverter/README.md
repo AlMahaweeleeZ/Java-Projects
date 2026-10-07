@@ -10,4 +10,9 @@ Features:
 
 Concepts Demonstrated:
 - Variables and data types
-- 
+- Arithmetic operations
+- if/else if conditional statements
+- Scanner for user input
+- Basic program flow and user interaction
+
+This was coded using Eclipse IDE for Java.
